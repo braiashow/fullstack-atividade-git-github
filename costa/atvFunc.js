@@ -4,3 +4,4 @@ function perimetro(lado){
 }
 
 console.log(perimetro(10));
+//coloque o nome no padrão//
